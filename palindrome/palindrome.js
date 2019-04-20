@@ -1,4 +1,4 @@
-const reverse = require("../reverse/reverse")
+const reverse = require("../reverse/reverse");
 
 function palindrome(input) {
     return input === reverse(input);

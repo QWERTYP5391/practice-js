@@ -1,4 +1,4 @@
-const palindrome = require("./palindrome");
+const palindrome = require('./palindrome');
 
 
 test('Input is Palindrome', () => {
